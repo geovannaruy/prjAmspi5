@@ -13,5 +13,6 @@
         Insira nota 3: <input type="text" nome = "nota1"><br>
 
         <input type="submit">
+        
 </body>
 </html>
